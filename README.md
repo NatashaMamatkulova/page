@@ -7,7 +7,7 @@
 
 <h1>Страницы с ссылками на репозитории</h1>
 <hr>
-<p>Byajhvfwbz j,j vyt</p>
+<p>Информация обо мне</p>
 <hr>
 <a href="https://github.com/NatashaMamatkulova/tothemoon">1 репозиторий</a><br>
 <a href="https://github.com/NatashaMamatkulova/watch_store">2 репозиторий</a><br>
